@@ -1,0 +1,288 @@
+#0
+    P P P    
+    P O P    
+P P P P P P P
+P P P D P P P
+P P P P P P P
+    P P P    
+    P P P    
+
+#1
+    P P P    
+    P   P    
+P O P D P P P
+P P P P P P P
+P P P P P P P
+    P P P    
+    P P P
+
+#2
+    O P P    
+    P   P    
+P   D P P P P
+P P P P P P P
+P P P P P P P
+    P P P    
+    P P P
+
+#3
+    D P O    
+        P    
+P   P P P P P
+P P P P P P P
+P P P P P P P
+    P P P    
+    P P P
+
+#4
+    P        
+    D   P    
+P   P P P P P
+P P O P P P P
+P P P P P P P
+    P P P    
+    P P P
+
+#5
+    O        
+    P   P    
+P   D P P P P
+P P   P P P P
+P P P P P P P
+    P P P    
+    P P P
+
+#6
+
+        P    
+P D P O P P P
+P P   P P P P
+P P P P P P P
+    P P P    
+    P P P
+
+#7
+
+        P    
+P P     P P P
+P P D P O P P
+P P P P P P P
+    P P P    
+    P P P
+
+#8
+
+        O    
+P P     P P P
+P P P   D P P
+P P P P P P P
+    P P P    
+    P P P
+
+#9
+
+             
+P P       P P
+P P P D P P P
+P P P P P P P
+    P O P    
+    P P P
+
+#10
+
+             
+P P       P P
+P P P P P P P
+P P P D P O P
+    P   P    
+    P P P
+
+#11
+
+             
+P P       O P
+P P P P P P P
+P P P P   D P
+    P   P    
+    P P P
+
+#12
+
+             
+P P         P
+P P P P P   P
+P P P P D P O
+    P   P    
+    P P P
+
+#13
+
+             
+P P         O
+P P P P P   P
+P P P P P   D
+    P   P    
+    P P P
+
+
+#14
+
+             
+P P          
+P P P P P    
+P P P O P D P
+    P   P    
+    P P P
+
+#15
+
+             
+P P          
+P P P P P    
+P P P   D P O
+    P   P    
+    P P P
+
+#16
+
+             
+P P D        
+P P P P P    
+P P O   P    
+    P   P    
+    P P P
+
+#17
+             
+             
+P O P D      
+P P   P P    
+P P     P    
+    P   P    
+    P P P    
+
+#18
+             
+             
+P     P      
+P P   P P    
+O P D   P    
+    P   P    
+    P P P
+
+#19
+             
+             
+O     P      
+P P   P P    
+D   P   P    
+    P   P    
+    P P P    
+
+#20
+             
+             
+      O      
+  P   P P    
+P   P D P    
+    P   P    
+    P P P    
+
+#21
+             
+             
+             
+  P     P    
+P   P O P D  
+    P   P    
+    P P P    
+
+#22
+             
+             
+             
+  P     P    
+P   P   D P  
+    P   P    
+    P P O    
+
+#23
+             
+             
+             
+  P     O    
+P   P   P P  
+    P   D    
+    P P      
+
+#24
+             
+             
+             
+  P          
+P   P     P  
+    P   P    
+    O P D    
+
+#25
+             
+             
+             
+  P          
+P   P   D P  
+    P   P    
+        O    
+
+#26
+             
+             
+             
+  P          
+P   P D P O  
+    P        
+             
+
+#27
+             
+             
+             
+  P          
+P D P O      
+    P        
+             
+
+#28
+             
+             
+             
+  P          
+O P D        
+    P        
+             
+
+#29
+             
+             
+             
+  P D        
+    P        
+    O        
+             
+
+#30
+             
+             
+             
+D P O        
+             
+             
+             
+
+#31
+             
+             
+             
+P            
+             
+             
+             
